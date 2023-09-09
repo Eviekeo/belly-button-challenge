@@ -43,4 +43,5 @@ https://plotly.com/javascript/bubble-charts/
             console.log(key, value);
             tablemenu.append("h5").text(`${key}: ${value}`);
           });
-The above code was used to searcg through the metadata and obtain key value pairs.
+The above code was used to search through the metadata and obtain key value pairs and was adapted from the below site:
+https://masteringjs.io/tutorials/fundamentals/foreach-object
